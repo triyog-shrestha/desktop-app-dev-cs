@@ -12,3 +12,4 @@
 /home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.pdb
 /home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
 /home/triyog/Desktop/DotNet/obj/Debug/net8.0/ref/DotNet.dll
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.sourcelink.json
