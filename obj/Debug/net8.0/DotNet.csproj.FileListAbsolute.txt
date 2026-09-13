@@ -1,0 +1,14 @@
+/home/triyog/Desktop/DotNet/bin/Debug/net8.0/DotNet
+/home/triyog/Desktop/DotNet/bin/Debug/net8.0/DotNet.deps.json
+/home/triyog/Desktop/DotNet/bin/Debug/net8.0/DotNet.runtimeconfig.json
+/home/triyog/Desktop/DotNet/bin/Debug/net8.0/DotNet.dll
+/home/triyog/Desktop/DotNet/bin/Debug/net8.0/DotNet.pdb
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfoInputs.cache
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfo.cs
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.csproj.CoreCompileInputs.cache
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.dll
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/refint/DotNet.dll
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.pdb
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
+/home/triyog/Desktop/DotNet/obj/Debug/net8.0/ref/DotNet.dll
